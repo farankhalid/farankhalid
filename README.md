@@ -1,4 +1,42 @@
-<h1 align="left">Hi 👋! My name is Mohammad Faran Khalid and I'm a Devops/Cloud Architect.</h1>
+<!-- <h1 align="left">Hi 👋! My name is Mohammad Faran Khalid and I'm a Devops/Cloud Architect.</h1> -->
+
+# Hi there, I'm Mohammad Faran Khalid! 👋
+
+## 🚀 About Me
+I'm a passionate DevOps Engineer, Cloud Architect, and Python Developer with a knack for automating processes, designing scalable cloud infrastructures, and building efficient, robust systems. I love exploring new technologies and leveraging them to solve complex problems. With a background in both development and operations, I aim to bridge the gap between software development and IT operations, ensuring fast, reliable, and continuous delivery of applications.
+
+## 🛠️ Skills
+
+### DevOps & Cloud
+- **Cloud Platforms:** AWS, Azure, Google Cloud
+- **Infrastructure as Code (IaC):** Terraform, CloudFormation
+- **CI/CD:** Jenkins, GitLab CI, GitHub Actions
+- **Containerization & Orchestration:** Docker, Kubernetes, Docker Swarm
+- **Monitoring & Logging:** Prometheus, Grafana, ELK Stack
+- **Scripting & Automation:** Bash, Python
+- **Version Control:** Git, GitHub, GitLab
+
+### Programming
+- **Languages:** Python (Flask, Django), Bash
+- **Database Management:** MySQL, PostgreSQL, MongoDB, Cassandra, ScyllaDB
+- **API Development:** RESTful Services, GraphQL
+- **Testing:** pytest, Selenium
+
+## 💡 Goals for 2024
+- Expand my knowledge and expertise in cloud-native technologies.
+- Contribute to open-source projects related to DevOps and cloud computing.
+- Develop a Python-based tool for automated infrastructure health checks.
+
+## 📫 How to Reach Me
+- **LinkedIn:** [https://www.linkedin.com/in/faran-khalid/](#)
+- **Email:** mohammadfarankhalid@gmail.com
+
+---
+
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=farankhalid&show_icons=true&theme=radical)
+
+### Let's build something amazing together!
+
 
 ###
 
