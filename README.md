@@ -30,11 +30,11 @@ I'm a passionate DevOps Engineer, Cloud Architect, and Python Developer with a k
 ## 📫 How to Reach Me
 
 <div align="left" style="margin-left: 18px;">
-  &nbsp;&nbsp;<a href="mailto:mohammadfarankhalid@gmail.com">
+  &nbsp;&nbsp;&nbsp;<a href="mailto:mohammadfarankhalid@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
   </br>
-  &nbsp;&nbsp;<a href="https://www.linkedin.com/in/faran-khalid/">
+  &nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/faran-khalid/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 </div>
