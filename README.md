@@ -44,15 +44,15 @@ I'm a passionate DevOps Engineer, Cloud Architect, and Python Developer with a k
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farankhalid&show_icons=true&theme=radical" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=farankhalid&show_icons=true&theme=radical" height="150" alt="languages graph"  />
-  <!-- <img src="https://streak-stats.demolab.com?user=farankhalid&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=farankhalid&show_icons=true&theme=tokyonight" width="290" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=farankhalid&show_icons=true&theme=tokyonight&layout=compact" width="270" alt="languages graph" />
+  <img src="https://streak-stats.demolab.com?user=farankhalid&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" width="290" alt="streak graph" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=farankhalid&radius=16&theme=react-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=farankhalid&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
