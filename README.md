@@ -44,9 +44,9 @@ I'm a passionate DevOps Engineer, Cloud Architect, and Python Developer with a k
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farankhalid&show_icons=true&theme=tokyonight" width="290" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=farankhalid&show_icons=true&theme=tokyonight" width="280" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=farankhalid&show_icons=true&theme=tokyonight&layout=compact" width="270" alt="languages graph" />
-  <img src="https://streak-stats.demolab.com?user=farankhalid&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" width="290" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=farankhalid&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" width="280" alt="streak graph" />
 </div>
 
 ###
