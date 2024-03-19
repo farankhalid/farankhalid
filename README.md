@@ -148,9 +148,3 @@ I'm a passionate DevOps Engineer, Cloud Architect, and Python Developer with a k
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/farankhalid/count.svg?"  />
-</div>
-
-###
