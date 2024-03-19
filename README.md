@@ -3,7 +3,8 @@
 # Hi there, I'm Mohammad Faran Khalid! 👋
 
 ## 🚀 About Me
-I'm a passionate DevOps Engineer, Cloud Architect, and Python Developer with a knack for automating processes, designing scalable cloud infrastructures, and building efficient, robust systems. I love exploring new technologies and leveraging them to solve complex problems. With a background in both development and operations, I aim to bridge the gap between software development and IT operations, ensuring fast, reliable, and continuous delivery of applications.
+I'm a seasoned professional with a passion for technology and a deep commitment to driving innovation. With extensive experience spanning DevOps, Cloud Engineering, Python Development, and Artificial Intelligence, I thrive on creating robust, scalable solutions that leverage the latest technologies to solve complex problems. With a background in both development and operations, I aim to bridge the gap between software development and IT operations, ensuring fast, reliable, and continuous delivery of applications. My journey has equipped me with a rich skill set and an adaptive, problem-solving mindset, making me a valuable asset to any team.
+
 
 ## 🛠️ Skills
 
@@ -16,8 +17,20 @@ I'm a passionate DevOps Engineer, Cloud Architect, and Python Developer with a k
 - **Scripting & Automation:** Bash, Python
 - **Version Control:** Git, GitHub, GitLab
 
+### Artificial intelligence
+- **Programming Languages:** Python
+- **Machine Learning Frameworks:** TensorFlow, PyTorch, Scikit-learn
+- **Deep Learning:** Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), Transformers
+- **Natural Language Processing:** BERT, GPT, NLTK, spaCy
+- **Computer Vision:** OpenCV, PIL, Image Preprocessing, Object Detection
+- **Data Science & Analysis:** Pandas, NumPy, Matplotlib, Seaborn
+- **Big Data Technologies:** Apache Spark, Hadoop
+- **Experiment Tracking & Model Management:** MLflow, DVC
+- **Cloud Platforms for AI:** AWS SageMaker, Google Cloud AI Platform, Azure Machine Learning
+
 ### Programming
-- **Languages:** Python (Flask, Django), Bash
+- **Languages:** Python, Bash
+- **Web Frameworks:** Django
 - **Database Management:** MySQL, PostgreSQL, MongoDB, Cassandra, ScyllaDB
 - **API Development:** RESTful Services, GraphQL
 - **Testing:** pytest, Selenium
@@ -25,7 +38,7 @@ I'm a passionate DevOps Engineer, Cloud Architect, and Python Developer with a k
 ## 💡 Goals for 2024
 - Expand my knowledge and expertise in cloud-native technologies.
 - Contribute to open-source projects related to DevOps and cloud computing.
-- Develop a Python-based tool for automated infrastructure health checks.
+- Develop a Python-based AI-enhanced tool for automated infrastructure health checks.
 
 ## 📫 How to Reach Me
 
