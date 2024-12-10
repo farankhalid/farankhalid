@@ -35,7 +35,7 @@ I'm a seasoned professional with a passion for technology and a deep commitment 
 - **API Development:** RESTful Services, GraphQL
 - **Testing:** pytest, Selenium
 
-## 💡 Goals for 2024
+## 💡 Goals for 2025
 - Expand my knowledge and expertise in cloud-native technologies.
 - Contribute to open-source projects related to DevOps and cloud computing.
 - Develop a Python-based AI-enhanced tool for automated infrastructure health checks.
